@@ -6,7 +6,6 @@ mod utils;
 mod models;
 mod constants;
 
-use clap::Parser;
 use dotenv::dotenv;
 
 fn main() {
