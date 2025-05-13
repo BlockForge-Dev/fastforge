@@ -1,3 +1,3 @@
-pub const CONFIG_FILE: &str = ".fastforge/config.toml";
-pub const CACHE_DIR: &str = "fastforge/cache/";
-pub const HISTORY_FILE: &str = ".fastforge/history.toml";
+pub const DEFAULT_ENV: &str = "development";
+pub const API_BASE_URL: &str = "https://api.fastforge.dev";
+pub const SESSION_FILE: &str = ".fastforge/session.json";
